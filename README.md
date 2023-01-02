@@ -12,6 +12,7 @@ Common library used by SharpHound.
 * Visual Studio 2019 Build Tools
 
 ## Building
+
 ```
 dotnet restore
 dotnet build
